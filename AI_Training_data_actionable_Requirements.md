@@ -123,4 +123,12 @@ We will define key quality indicators and monitor them automatically. Alerts wil
 We assume that continuous monitoring helps ensure long-term dataset integrity.  
 **Validation:** Compare weekly data snapshots to detect shifts or imbalance trends.
 
+**Sub-Issue 2: Develop Alerts for Quality Issues**  
+**Goal:** Notify developers of data inconsistencies in real time.  
+**Approach:** Monitor and benchmark live data streams.  
+**Tasks:**
+- Monitor input sources in real time.
+- Compare with pre-defined benchmarks.
+- Trigger email/SMS alerts on deviations.
+
 
