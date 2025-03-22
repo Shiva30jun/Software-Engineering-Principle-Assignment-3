@@ -141,4 +141,13 @@ We assume that continuous monitoring helps ensure long-term dataset integrity.
 
 ---
 
+## **UR-04: Scalable Data Handling**
+
+**Title:**  
+_As an AI developer, I want a system that can efficiently process large datasets so that AI models can be trained without performance issues._
+
+**GitHub Issue:** #4
+
+
+
 
