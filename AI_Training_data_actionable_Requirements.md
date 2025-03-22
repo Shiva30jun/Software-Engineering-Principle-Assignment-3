@@ -84,4 +84,14 @@ We assume that removing bias from training data improves model performance and f
 - Visualize bias using bar/pie charts.
 - Save visualizations in a centralized dashboard folder.
 
+**Sub-Issue 3: Workflow for Maintaining Balanced Data**  
+**Goal:** Maintain data balance continuously.  
+**Approach:** Automate threshold checks and alerts.  
+**Tasks:**
+- Define balance thresholds for each feature.
+- Build automated alerts for imbalance detection.
+- Schedule weekly checks to flag anomalies.
+
+---
+
 
