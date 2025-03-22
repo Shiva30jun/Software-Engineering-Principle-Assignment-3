@@ -101,5 +101,20 @@ _As an AI developer, I want an automated system to monitor training data quality
 
 **GitHub Issue:** #3
 
+### **Purpose**
+
+After talking to the client, the client has reported that maintaining consistent quality across their large training datasets has become challenging.
+
+So from this, we have decided to implement automated indicators, alerts, and reporting tools to monitor data quality continuously.
+
+### **Implementation Strategy**
+
+We will define key quality indicators and monitor them automatically. Alerts will be triggered when values deviate from expected norms, and weekly reports will be shared with the team.
+
+- Set thresholds for data balance  
+- Monitor new data in real time  
+- Trigger alerts for outliers  
+- Email weekly quality reports  
+
 
 
