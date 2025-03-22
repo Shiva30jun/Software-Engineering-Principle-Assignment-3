@@ -169,4 +169,12 @@ We will identify performance bottlenecks in the training pipeline, optimize data
 We assume that structured and optimized data handling improves model input speed.  
 **Validation:** Measure system speed with increasing data volume.
 
+**Sub-Issue 2: Optimize Storage & Retrieval**  
+**Goal:** Improve system efficiency with optimized database logic.  
+**Approach:** Focus on query tuning and indexing.  
+**Tasks:**
+- Add indexes to frequently queried fields.
+- Fetch data in batches to reduce memory load.
+- Minimize expensive query joins.
+
 
