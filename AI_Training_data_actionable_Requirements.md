@@ -131,4 +131,14 @@ We assume that continuous monitoring helps ensure long-term dataset integrity.
 - Compare with pre-defined benchmarks.
 - Trigger email/SMS alerts on deviations.
 
+**Sub-Issue 3: Generate Data Quality Reports**  
+**Goal:** Provide developers with regular quality updates.  
+**Approach:** Use automated scripts to pull, format, and share reports.  
+**Tasks:**
+- Pull daily/weekly data health metrics.
+- Format and email reports to stakeholders.
+- Archive reports in a structured folder for auditing.
+
+---
+
 
