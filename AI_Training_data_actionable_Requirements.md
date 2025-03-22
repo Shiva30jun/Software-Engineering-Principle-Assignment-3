@@ -163,4 +163,10 @@ We will identify performance bottlenecks in the training pipeline, optimize data
 - Batch data to reduce memory usage  
 - Stress test with large input datasets  
 
+### **Sub-Issues**
+
+**Sub-Issue 1:**  
+We assume that structured and optimized data handling improves model input speed.  
+**Validation:** Measure system speed with increasing data volume.
+
 
