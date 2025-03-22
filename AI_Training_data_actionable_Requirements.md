@@ -29,7 +29,7 @@ We will build a dropdown menu to allow users to tag training questions with pred
 ### **Sub-Issues**
 
 **Sub-Issue 1:**  
-A well-organized Q&A format improves learning and prevents unintentional answer hints.  
+We assume that well-organized Q&A format improves learning and prevents unintentional answer hints.  
 **Validation:** Conduct usability testing with developers to confirm improved focus and usability.
 
 **Sub-Issue 2: Implement Question Categorization UI**  
