@@ -94,4 +94,12 @@ We assume that removing bias from training data improves model performance and f
 
 ---
 
+## **UR-03: Training Data Quality Monitoring**
+
+**Title:**  
+_As an AI developer, I want an automated system to monitor training data quality so that dataset balance is maintained._
+
+**GitHub Issue:** #3
+
+
 
