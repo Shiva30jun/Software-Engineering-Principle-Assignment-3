@@ -84,7 +84,7 @@ We assume that removing bias from training data improves model performance and f
 - Visualize bias using bar/pie charts.
 - Save visualizations in a centralized dashboard folder.
 
-**Sub-Issue 3: Workflow for Maintaining Balanced Data**  
+**Sub-Issue 3: Implement Workflow for Maintaining Balanced Data**  
 **Goal:** Maintain data balance continuously.  
 **Approach:** Automate threshold checks and alerts.  
 **Tasks:**
@@ -123,7 +123,7 @@ We will define key quality indicators and monitor them automatically. Alerts wil
 We assume that continuous monitoring helps ensure long-term dataset integrity.  
 **Validation:** Compare weekly data snapshots to detect shifts or imbalance trends.
 
-**Sub-Issue 2: Develop Alerts for Quality Issues**  
+**Sub-Issue 2: Implement Develop Alerts for Quality Issues**  
 **Goal:** Notify developers of data inconsistencies in real time.  
 **Approach:** Monitor and benchmark live data streams.  
 **Tasks:**
@@ -131,7 +131,7 @@ We assume that continuous monitoring helps ensure long-term dataset integrity.
 - Compare with pre-defined benchmarks.
 - Trigger email/SMS alerts on deviations.
 
-**Sub-Issue 3: Generate Data Quality Reports**  
+**Sub-Issue 3: Implement Generate Data Quality Reports**  
 **Goal:** Provide developers with regular quality updates.  
 **Approach:** Use automated scripts to pull, format, and share reports.  
 **Tasks:**
@@ -169,7 +169,7 @@ We will identify performance bottlenecks in the training pipeline, optimize data
 We assume that structured and optimized data handling improves model input speed.  
 **Validation:** Measure system speed with increasing data volume.
 
-**Sub-Issue 2: Optimize Storage & Retrieval**  
+**Sub-Issue 2: Implement Optimize Storage & Retrieval**  
 **Goal:** Improve system efficiency with optimized database logic.  
 **Approach:** Focus on query tuning and indexing.  
 **Tasks:**
@@ -177,7 +177,7 @@ We assume that structured and optimized data handling improves model input speed
 - Fetch data in batches to reduce memory load.
 - Minimize expensive query joins.
 
-**Sub-Issue 3: Run Load Testing**  
+**Sub-Issue 3: Implement Run Load Testing**  
 **Goal:** Ensure system scalability under pressure.  
 **Approach:** Use stress testing tools and simulate concurrent activity.  
 **Tasks:**
