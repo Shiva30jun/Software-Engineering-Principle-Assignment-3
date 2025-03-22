@@ -42,3 +42,13 @@ A well-organized Q&A format improves learning and prevents unintentional answer 
 - Validate selected category before saving.
 - Load category options dynamically from database or config.
 
+---
+
+## **UR-02: Balanced Training Data**
+
+**Title:**  
+_As an AI developer, I want balanced training data so that AI models do not develop biases and provide more reliable results._
+
+**GitHub Issue:** #2
+
+
