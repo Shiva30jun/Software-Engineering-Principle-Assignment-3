@@ -66,4 +66,12 @@ We will write scripts to measure the distribution of values across dataset featu
 - Flag categories above a threshold  
 - Output flagged results to reports 
 
+### **Sub-Issues**
+
+**Sub-Issue 1:**  
+We assume that removing bias from training data improves model performance and fairness.  
+**Validation:** Compare model performance before and after dataset balancing.
+
+
+
 
