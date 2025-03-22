@@ -177,4 +177,12 @@ We assume that structured and optimized data handling improves model input speed
 - Fetch data in batches to reduce memory load.
 - Minimize expensive query joins.
 
+**Sub-Issue 3: Run Load Testing**  
+**Goal:** Ensure system scalability under pressure.  
+**Approach:** Use stress testing tools and simulate concurrent activity.  
+**Tasks:**
+- Simulate concurrent users accessing data.
+- Monitor CPU, memory, and I/O usage.
+- Document performance metrics and optimize code where needed.
+
 
