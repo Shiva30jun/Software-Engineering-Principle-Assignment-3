@@ -117,4 +117,10 @@ We will define key quality indicators and monitor them automatically. Alerts wil
 - Email weekly quality reports  
 
 
+### **Sub-Issues**
+
+**Sub-Issue 1:**  
+We assume that continuous monitoring helps ensure long-term dataset integrity.  
+**Validation:** Compare weekly data snapshots to detect shifts or imbalance trends.
+
 
