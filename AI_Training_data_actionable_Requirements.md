@@ -32,3 +32,13 @@ We will build a dropdown menu to allow users to tag training questions with pred
 A well-organized Q&A format improves learning and prevents unintentional answer hints.  
 **Validation:** Conduct usability testing with developers to confirm improved focus and usability.
 
+**Sub-Issue 2: Implement Question Categorization UI**  
+**Goal:** Allow users to assign categories to questions.  
+**Approach:** Integrate dropdown and backend saving logic.  
+**Tasks:**
+- Create dropdown for category selection.
+- Store selected category with each question entry.
+- Connect UI with backend API.
+- Validate selected category before saving.
+- Load category options dynamically from database or config.
+
