@@ -148,6 +148,19 @@ _As an AI developer, I want a system that can efficiently process large datasets
 
 **GitHub Issue:** #4
 
+### **Purpose**
 
+After talking to the client, the client has reported that their AI model training processes often slow down with large datasets.
+
+So from this, we have decided to implement optimized data handling strategies including batch processing, indexing, and load testing.
+
+### **Implementation Strategy**
+
+We will identify performance bottlenecks in the training pipeline, optimize data queries using indexing, and perform stress testing to ensure the system remains stable under load.
+
+- Run profiling to detect bottlenecks  
+- Optimize database queries with indexing  
+- Batch data to reduce memory usage  
+- Stress test with large input datasets  
 
 
