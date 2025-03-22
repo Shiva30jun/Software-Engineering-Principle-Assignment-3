@@ -51,4 +51,19 @@ _As an AI developer, I want balanced training data so that AI models do not deve
 
 **GitHub Issue:** #2
 
+### **Purpose**
+
+After talking to the client, the client has reported that their AI models were unintentionally biased due to unbalanced datasets.
+
+So from this, we have decided to implement bias detection scripts that analyse frequency distributions and flag overrepresented data.
+
+### **Implementation Strategy**
+
+We will write scripts to measure the distribution of values across dataset features. These will be checked against thresholds to detect imbalances. Any overrepresented categories will be flagged, visualized, and documented in reports.
+
+- Identify key data features to analyse  
+- Calculate value frequencies  
+- Flag categories above a threshold  
+- Output flagged results to reports 
+
 
