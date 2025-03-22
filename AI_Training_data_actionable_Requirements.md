@@ -9,4 +9,20 @@ Our client, an AI developer, uses web scraping to collect training data for thei
 **Title:**  
 _As an AI developer, I want training questions to be organized into categories so that I can separate them from their answers and enhance my self-evaluation process._
 
+**GitHub Issue:** #1
+
+### **Purpose**
+
+After talking to the client, the client has reported that they want to organize questions into categories so developers can easily focus on specific areas and track their understanding.
+
+So, from this, we have decided to implement a categorization feature with a dropdown interface for tagging questions and storing them by topic.
+
+### **Implementation Strategy**
+
+We will build a dropdown menu to allow users to tag training questions with predefined categories. When the user submits a question, the category will be saved alongside the entry in the database. This will help sort and filter questions during training.
+
+- Create UI with dropdown selector  
+- Accept question and selected category from user  
+- Save both question and category to database  
+- Retrieve and display questions by category  
 
