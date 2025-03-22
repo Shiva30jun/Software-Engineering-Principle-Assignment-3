@@ -72,6 +72,16 @@ We will write scripts to measure the distribution of values across dataset featu
 We assume that removing bias from training data improves model performance and fairness.  
 **Validation:** Compare model performance before and after dataset balancing.
 
-
+**Sub-Issue 2: Implement Bias Detection Algorithm**  
+**Goal:** Detect and report bias in the dataset.  
+**Approach:** Use rule-based frequency checks.  
+**Tasks:**
+- Identify common indicators of dataset bias.
+- Write frequency analysis scripts.
+- Set thresholds for category overrepresentation.
+- Log flagged data with bias scores.
+- Export results in CSV format.
+- Visualize bias using bar/pie charts.
+- Save visualizations in a centralized dashboard folder.
 
 
